@@ -23,4 +23,5 @@ Nhưng thực chất, nhìn vào công thức trong bài báo thì <img width="9
 Hình theo công thức sẽ là thế này: ![meal_total](https://user-images.githubusercontent.com/29473579/165786187-f320c643-7e13-4e1a-a650-785dd03a9010.png)
 
 Vì bài báo đã "quên" mất cho hàm chỉ thị time lower bound và upper bound của bữa ăn.
+Sự tồn tại của hàm chỉ thị là vì, phải bắt đầu ăn thì lượng thức ăn mới lớn hơn 0 được, còn hàm exp thì luôn dương, dù giá trị có thể có chỗ nhỏ.
 
