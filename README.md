@@ -6,6 +6,7 @@ Link slide tìm hiểu bài báo:
 https://www.overleaf.com/7383636864sxzqzsjjtcbk
 
 Nhóm thực hiện tìm hiểu mô hình: 
+
      1. Tăng Thu Trang
      2. Đỗ Thị Mai Hoa
      3. Lê Thị Thu An
