@@ -11,11 +11,11 @@ Nhóm thực hiện tìm hiểu mô hình:
      2. Đỗ Thị Mai Hoa
      3. Lê Thị Thu An
      
-Bài báo có 1 lỗi sai ở hàm Habitat. 
+Bài báo có 1 lỗi sai ở hàm Habits. 
 Kết quả hàm habitat trong bài là :
 <img width="960" alt="result in bài báo" src="https://user-images.githubusercontent.com/29473579/165785493-b166b49b-11db-4df7-b1cb-3dd6bac755f3.png">
 
-Nhìn vào phần màu xanh lá cây, chỉ hàm habitat, nhìn giống như thế này:
+Nhìn vào đường màu xanh lá cây, chỉ hàm habits, nhìn giống như thế này:
 ![habit](https://user-images.githubusercontent.com/29473579/165785701-d5fcc9fd-31b4-4012-a887-f9cce915df7e.png)
 
 Nhưng thực chất, nhìn vào công thức trong bài báo thì <img width="960" alt="result in bài báo" src="https://user-images.githubusercontent.com/29473579/165786072-28e7884b-184c-4466-b835-1a72c0458d8e.png">
