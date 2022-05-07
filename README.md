@@ -21,4 +21,4 @@ Bước 1: thực hiện mô hình bằng cách chuyển từ phương trình v�
 
 Bước 2: So sánh kết quả với lượng thức ăn ở dữ liệu data.
       
-Bước 2: điều chỉnh 1 vài tham số để thấy sự khác biệt của lượng thức ăn.
+Bước 3: điều chỉnh 1 vài tham số để thấy sự khác biệt của lượng thức ăn.
