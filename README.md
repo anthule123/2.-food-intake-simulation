@@ -17,6 +17,7 @@ Bước 1: thực hiện mô hình bằng cách chuyển từ phương trình v�
       
       a. Euler method (thô)
       b. Runge Kruta
+      c. Finite Element (?!)
 
 Bước 2: So sánh kết quả với lượng thức ăn ở dữ liệu data.
       
