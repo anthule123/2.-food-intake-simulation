@@ -23,6 +23,18 @@ Bước 2: So sánh kết quả với lượng thức ăn ở dữ liệu data.
 
 Bước 3. Tải các dữ liệu năm 2015-2016 ở NHANES về để tính ra một vài tham số.
 https://wwwn.cdc.gov/Nchs/Nhanes/Search/DataPage.aspx?Component=Dietary&CycleBeginYear=201
-Dùng thư viện pandas để đọc dữ liệu
+Dùng thư viện pandas để đọc dữ liệu.
+Các dữ liệu mà bài báo sử dụng ở NHANES :
+
+       1.  DR1IFF.XPT, có giải thích tên biến ở file DR1IFF.doc
+          trong file này chỉ sử dụng các biến :
+             1. SEQN    : dãy số phản hồi
+             2. DR1_020 : thời gian ăn, dạng HH MM 6 : giá trị từ 0 -> 8640 = 24h * 60 phút * 6.
+             3. DR1IGRMS: khối lượng thức ăn trong lần ăn đó
+   Ngoài ra còn dữ liệu :
+       1. [140] https://tbiomed.biomedcentral.com/track/pdf/10.1186/1742-4682-9-16.pdf
+        tính ra tham số k_XL
+       1. 
+       1. 
       
-Bước 3: điều chỉnh 1 vài tham số để thấy sự khác biệt của lượng thức ăn.
+Bước 4: điều chỉnh 1 vài tham số để thấy sự khác biệt của lượng thức ăn.
