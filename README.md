@@ -20,7 +20,10 @@ Bước 1: thực hiện mô hình bằng cách chuyển từ phương trình v�
       c. Finite Element (?!)
 
 Bước 2: So sánh kết quả với lượng thức ăn ở dữ liệu data.
-file: food-intake3.ipynb
+
+file: food-intake3.ipynb : data ở NHANES
+      food intake4.ipynb : kết quả simulation 400 samples
+
 Các dữ liệu mà bài báo sử dụng ở NHANES :
 
        1.  DR1IFF.XPT, có giải thích tên biến ở file DR1IFF.doc
