@@ -21,7 +21,8 @@ Bước 1: thực hiện mô hình bằng cách chuyển từ phương trình v�
 
 Bước 2: So sánh kết quả với lượng thức ăn ở dữ liệu data.
 
-file: food-intake3.ipynb : data ở NHANES
+     file: food-intake3.ipynb : data ở NHANES
+
       food intake4.ipynb : kết quả simulation 400 samples
 
 Các dữ liệu mà bài báo sử dụng ở NHANES :
