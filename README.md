@@ -20,10 +20,7 @@ Bước 1: thực hiện mô hình bằng cách chuyển từ phương trình v�
       c. Finite Element (?!)
 
 Bước 2: So sánh kết quả với lượng thức ăn ở dữ liệu data.
-
-Bước 3. Tải các dữ liệu năm 2015-2016 ở NHANES về để tính ra một vài tham số.
-https://wwwn.cdc.gov/Nchs/Nhanes/Search/DataPage.aspx?Component=Dietary&CycleBeginYear=201
-Dùng thư viện pandas để đọc dữ liệu.
+file: food-intake3.ipynb
 Các dữ liệu mà bài báo sử dụng ở NHANES :
 
        1.  DR1IFF.XPT, có giải thích tên biến ở file DR1IFF.doc
@@ -31,6 +28,12 @@ Các dữ liệu mà bài báo sử dụng ở NHANES :
              1. SEQN    : dãy số phản hồi
              2. DR1_020 : thời gian ăn, dạng HH MM 6 : giá trị từ 0 -> 86400 = 24h * 60 phút * 60 giây.
              3. DR1IGRMS: khối lượng thức ăn trong lần ăn đó
+             
+
+Bước 3. Tải các dữ liệu năm 2015-2016 ở NHANES về để tính ra một vài tham số.
+https://wwwn.cdc.gov/Nchs/Nhanes/Search/DataPage.aspx?Component=Dietary&CycleBeginYear=201
+Dùng thư viện pandas để đọc dữ liệu.
+
    Ngoài ra còn dữ liệu :
        1. [140] https://tbiomed.biomedcentral.com/track/pdf/10.1186/1742-4682-9-16.pdf
         tính ra tham số k_XL
