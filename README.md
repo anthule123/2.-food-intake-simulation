@@ -20,5 +20,9 @@ Bước 1: thực hiện mô hình bằng cách chuyển từ phương trình v�
       c. Finite Element (?!)
 
 Bước 2: So sánh kết quả với lượng thức ăn ở dữ liệu data.
+
+Bước 3. Tải các dữ liệu năm 2015-2016 ở NHANES về để tính ra một vài tham số.
+https://wwwn.cdc.gov/Nchs/Nhanes/Search/DataPage.aspx?Component=Dietary&CycleBeginYear=201
+Dùng thư viện pandas để đọc dữ liệu
       
 Bước 3: điều chỉnh 1 vài tham số để thấy sự khác biệt của lượng thức ăn.
