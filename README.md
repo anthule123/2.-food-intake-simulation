@@ -45,3 +45,11 @@ Dùng thư viện pandas để đọc dữ liệu.
        1. 
       
 Bước 4: điều chỉnh 1 vài tham số để thấy sự khác biệt của lượng thức ăn.
+     
+         1. Điều chỉnh tỉ lệ glucose trong thức ăn (eta G): 
+               tăng tỉ lệ glucose trong thức ăn thành 0.4 : làm giảm lượng thức ăn, nhưng tăng carbonhydrat
+         2. Điều chỉnh tốc độ rỗng của dạ dày (t1/2):
+               giảm tốc độ rỗng của dạ dày -> 30 phút để giảm nửa: không đổi nhiều lắm
+               
+               
+               
