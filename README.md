@@ -52,6 +52,11 @@ Bước 4: điều chỉnh 1 vài tham số để thấy sự khác biệt của
          2. Ăn nhiều chất xơ : giảm tỉ lệ Glucose trong thức ăn và tăng thời gian tiêu hóa thức ăn:
                 làm tăng lượng thức ăn, giảm carbonhydrate.
                file change1 copy3.ipynb 
+         3. Tăng mức độ ảnh hưởng của độ thèm ăn : tăng w_A = 0.9 : không thay đổi lắm
+               file change1 copy4.ipynb
+            Giảm tốc độ ăn : lượng thức ăn giảm 1 chút
+            Nhưng nếu vừa tăng w_A vừa giảm tốc độ ăn thì lượng thức ăn giảm đáng kể xuống xấp xỉ 2000 gram
+         4.
                
                
                
