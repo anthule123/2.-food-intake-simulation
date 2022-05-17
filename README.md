@@ -49,9 +49,9 @@ Bước 4: điều chỉnh 1 vài tham số để thấy sự khác biệt của
          1. Điều chỉnh tỉ lệ glucose trong thức ăn (eta G): 
                tăng tỉ lệ glucose trong thức ăn thành 0.4 : làm giảm lượng thức ăn, nhưng tăng carbonhydrat
                file : change1 copy.ipynb
-         2. Điều chỉnh tốc độ rỗng của dạ dày (t1/2):
-               giảm tốc độ rỗng của dạ dày -> 30 phút để giảm nửa: không đổi nhiều lắm
-               file : change1 copy 2.ipynb
+         2. Ăn nhiều chất xơ : giảm tỉ lệ Glucose trong thức ăn và tăng thời gian tiêu hóa thức ăn:
+                làm tăng lượng thức ăn, giảm carbonhydrate.
+               file change1 copy3.ipynb 
                
                
                
