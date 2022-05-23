@@ -16,14 +16,12 @@ Bước 1: thực hiện mô hình bằng cách chuyển từ phương trình v�
       ở file foood intake 2.ipynb
       
       a. Euler method (thô)
-      b. Runge Kruta
-      c. Finite Element (?!)
 
 Bước 2: So sánh kết quả với lượng thức ăn ở dữ liệu data.
 
-     file: food-intake3.ipynb : data ở NHANES
+     file: explore data NHANES.ipynb : data ở NHANES
 
-      food intake4.ipynb : kết quả simulation 400 samples
+     food intake4.ipynb : kết quả simulation 400 samples
 
 Các dữ liệu mà bài báo sử dụng ở NHANES :
 
@@ -41,8 +39,6 @@ Dùng thư viện pandas để đọc dữ liệu.
    Ngoài ra còn dữ liệu :
        1. [140] https://tbiomed.biomedcentral.com/track/pdf/10.1186/1742-4682-9-16.pdf
         tính ra tham số k_XL
-       1. 
-       1. 
       
 Bước 4: điều chỉnh 1 vài tham số để thấy sự khác biệt của lượng thức ăn.
      
