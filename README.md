@@ -12,7 +12,7 @@ Nhóm thực hiện tìm hiểu mô hình:
      3. Lê Thị Thu An
      
 Bước 1: thực hiện mô hình bằng cách chuyển từ phương trình vì phân
-      sang pt sai phân với $ '\delta' t $= 2 phút.
+      sang pt sai phân với $ \Delta t $= 2 phút.
       ở file foood intake 2.ipynb
       
       a. Euler method (thô)
