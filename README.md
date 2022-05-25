@@ -24,7 +24,9 @@ Bước 2: So sánh kết quả với lượng thức ăn ở dữ liệu data.
      file: food-intake3.ipynb : data ở NHANES
 
       food intake4.ipynb : kết quả simulation 400 samples
-      ![data](https://user-images.githubusercontent.com/29473579/170154352-87177b9c-1168-4aba-9d5e-34d6923cdfc9.png) ![data](https://user-images.githubusercontent.com/29473579/170154372-25b5e2f0-bd05-4eae-a88e-69d88f0a524b.png)
+ ![data](https://user-images.githubusercontent.com/29473579/170154443-27a69306-8102-438b-82d6-a2dec2c14787.png)
+![simulation](https://user-images.githubusercontent.com/29473579/170154464-a9cb897c-ca46-43ae-9eb5-77212426d11a.png)
+
 
 
 Các dữ liệu mà bài báo sử dụng ở NHANES :
