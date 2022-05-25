@@ -31,9 +31,10 @@ Bước 2: So sánh kết quả với lượng thức ăn ở dữ liệu data.
 
 Các dữ liệu mà bài báo sử dụng ở NHANES :
 
-       1.  DR1IFF.XPT, có giải thích tên biến ở file DR1IFF.doc
+       1.  DR1IFF.XPT, có giải thích tên biến ở file DR1IFF.doc.
+           File này thống kê khoảng 120 000 bữa ăn của khoảng 8500 người.
           trong file này chỉ sử dụng các biến :
-             1. SEQN    : dãy số phản hồi
+             1. SEQN    : như kiểu id của người được phỏng vấn, 1 người có thể ghi lại vài bữa ăn của mình
              2. DR1_020 : thời gian ăn, dạng HH MM 6 : giá trị từ 0 -> 86400 = 24h * 60 phút * 60 giây.
              3. DR1IGRMS: khối lượng thức ăn trong lần ăn đó
              
